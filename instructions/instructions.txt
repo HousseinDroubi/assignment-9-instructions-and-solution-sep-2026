@@ -1,0 +1,3 @@
+- Create html file and link it with js file
+- Use 2 variable, one for username (constant) and one for age (updatable)
+- Use these 2 variables to output the same as shown in result.png
